@@ -12,6 +12,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Supabase-logo.png" width="40" height="40" />
+<img src="https://img.loadlogo.com/supabase.com?style=flat&format=svg" width="40" height="40" />
+
 
 </div>
