@@ -1,3 +1,17 @@
+# 👋 Olá, eu sou Matheus Ruzzi Ribeiro
+
+Bem-vindo ao meu perfil no GitHub!  
+Sou desenvolvedor apaixonado por tecnologia, inovação e aprendizado contínuo. Aqui você encontrará projetos que refletem minha jornada, interesses e evolução na área de desenvolvimento de software.
+
+---
+
+## 🚀 Sobre mim
+I- 🎓 Estudante/Profissional de T.I (IFSMG-campus muzambinho)
+- 💻 Foco em desenvolvimento fullstack
+- 🌱 Atualmente aprendendo e me aprofundando em frameworks atuais e IA
+
+---
+
 ## 🚀 Principais tecnologias desenvolvidas
 
 <div style="display: flex;  gap: 10px; ">
@@ -16,3 +30,18 @@
 
 
 </div>
+
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruzzi2603&show_icons=true&theme=dracula)  
+
+
+---
+
+## 📫 Contato
+- 📧 Email: matheusruzzi8@gmail.com 
+
+
+⭐ Se você gostou dos meus projetos, não esqueça de deixar uma estrela nos repositórios!
+
+
