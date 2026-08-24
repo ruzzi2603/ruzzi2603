@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Matheus Ruzzi
+#  Matheus Ruzzi
 
 <div align="center">
 
@@ -62,68 +62,8 @@ Atualmente estou aprimorando minhas habilidades através de projetos próprios e
 
 ---
 
-## ⭐ Projetos em destaque
 
-### 🔴 Flance
 
-Plataforma voltada para conexão entre **profissionais e clientes**, permitindo que empresas e profissionais apresentem seus serviços através de uma plataforma digital.
-
-**Tecnologias:**
-`Next.js` `React` `TypeScript` `NestJS` `Prisma` `PostgreSQL` `Socket.IO`
-
----
-
-### 📚 NewStudy
-
-Plataforma educacional que utiliza **Inteligência Artificial** para transformar conteúdos de vídeo em materiais de estudo.
-
-O objetivo é facilitar a organização, revisão e compreensão dos conteúdos estudados.
-
-**Tecnologias:**
-`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `Django` `Gemini API`
-
----
-
-### 🛡️ VisionAI
-
-Projeto de visão computacional utilizando inteligência artificial para análise de imagens e vídeos.
-
-**Tecnologias:**
-`Python` `YOLOv8` `OpenCV`
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🐍 Atividade
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 ## 📈 Atualmente
 
@@ -138,18 +78,9 @@ Projeto de visão computacional utilizando inteligência artificial para anális
 
 ---
 
-## 💡 Filosofia
 
-> **"Aprender construindo é a melhor forma de transformar conhecimento em experiência."**
-
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo. Sempre construindo.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=grey" />
 
 </div>
